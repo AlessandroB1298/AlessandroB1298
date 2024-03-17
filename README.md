@@ -1,7 +1,7 @@
 
-<h1 align="center">
-    Hi 👋, I'm Alessandro Bongiorno
-</h1>
+![github-header-image](https://github.com/AlessandroB1298/AlessandroB1298/assets/98426727/f99a4040-5cd3-4787-b5fe-7abed58e3ed0)
+
+
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
