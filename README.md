@@ -6,6 +6,19 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
+## 🔭 Currently Working on:
+* Generative art using face detection models
+* Jarvis desktop assistant, using opencv model
+* My E-portfolio using three.js
+* UI for a new app called ZorTime, a app for helping college students with better time management
+
+
+## 🍃 What I am Currently Learning:
+* React Native
+* TypeScript
+* Data Structures and Algorithms
+
+
 ## 💬Socials
 <a href="mailto:aidanbongiorno@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
