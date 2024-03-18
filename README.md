@@ -7,8 +7,8 @@
 
 
 ## 🔭 Currently Working on:
-* Generative art using face detection models
-* Jarvis desktop assistant, using opencv model
+* Generative computational art using ai
+* Jarvis desktop assistant, using opencv
 * My E-portfolio using three.js
 * UI for a new app called ZorTime, a app for helping college students with better time management
 
