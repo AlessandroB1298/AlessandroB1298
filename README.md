@@ -70,7 +70,10 @@
 <a href="https://www.docker.com/">
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 </a>
-[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
+<a>
+    <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" >
+</a>
+
 <a href="https://code.visualstudio.com/">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </a>
