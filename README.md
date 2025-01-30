@@ -7,10 +7,10 @@
 
 
 ## 🔭 Currently Working on:
-* Augmentify: A fun open-source project to help users increase dataaset size by injecting synthethic data.
-* ZorTime: Website used for a better scheduling experience, desgined for college students and professionals.
-* Multiplayer Games: Using Playroom Kit and React to build fun multiplayer game experiences right in the browser.
-* Envora: A component library for developers looking for easy and ready-to-use components in React.
+* **Augmentify:** A fun open-source project to help users increase dataaset size by injecting synthethic data.
+* **ZorTime:** Website used for a better scheduling experience, desgined for college students and professionals.
+* **Multiplayer Games:** Using Playroom Kit and React to build fun multiplayer game experiences right in the browser.
+* **Envora:** A component library for developers looking for easy and ready-to-use components in React.
 
 
 ## 🍃 What I am Currently Learning:
